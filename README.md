@@ -17,3 +17,5 @@ The tool was written using Python and Jupyter notebook. Voila was used to conver
 
 ❃ The result is downloadable as xlsx (excel) file. First 50 fragments in the list are shown on the screen.
 
+## Link to the instructions how to use the app and how to restore it (for my colleague)
+https://youtu.be/sPjhPLa5Zvs
